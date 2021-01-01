@@ -23,3 +23,12 @@ serves = [
 [es]
 serves = ["es"]
 fallbacks = ["en"]
+
+# German
+[de]
+serves = [
+  "de-CH",
+  "de-DE",
+  "de"
+]
+fallbacks = ["en"]
